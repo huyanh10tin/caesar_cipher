@@ -25,5 +25,5 @@ class StockPicker
 	# find max(sellday - payday)
 
 end
-stock_picker = StockPicker.new([17,3,6,9,15,8,6,1,10])
+stock_picker = StockPicker.new([6,23,6,68,15,8,6,1,10])
 stock_picker.process
